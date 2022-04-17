@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Physics at University of Yangon.
 - 💼 &nbsp; Working as a Freelance Web Developer.
-- 🌱 &nbsp; Learning more about Quantum Computing, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Video Editing and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web3, Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing UI/UX and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
