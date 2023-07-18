@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Physics at University of Yangon.
+- 🎓 &nbsp; Studying Electrical and Computer Engineering at the University of Macau.
 - 💼 &nbsp; Working as a Freelance Web Developer.
-- 🌱 &nbsp; Learning more about Web3, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing UI/UX and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web3, Hardware and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing UI/UX, Blog Writing, Podcasting and Drawing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
