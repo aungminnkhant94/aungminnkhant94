@@ -4,7 +4,7 @@
 
 I work at the intersection of **applied deep learning** and **the infrastructure that runs it** — training 3D medical-imaging segmentation models and administering the production GPU cluster behind them.
 
-## 🔬 Current focus
+## 🔬 Exp
 
 - **3D medical image segmentation** — 3D U-Net & nnU-Net v2 on PET/CT and SPECT/CT scans (PyTorch, MONAI)
 - **GPU cluster operations** — NVIDIA A100 80GB / RTX A6000 fleet, Docker-based reproducible training, multi-user scheduling
