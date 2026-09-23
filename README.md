@@ -14,10 +14,6 @@ I work at the intersection of **applied deep learning** and **the infrastructure
 
 `Python` `PyTorch` `nnU-Net` `MONAI` `scikit-learn` `Docker` `Linux` `Git` `CI/CD` `React` `Node.js` `MongoDB`
 
-## 📌 Before AI: web development
-
-Shipped 5+ production websites for SMEs (React / Node.js / PHP) and taught a web development course to 30+ students — 90% completed their capstone projects.
-
 ## 📫 Reach me
 
 [Portfolio](https://aungminnkhant.netlify.app) · [LinkedIn](https://www.linkedin.com/in/aung-minn-khant-2a8403172/) · aungminnkhant94@gmail.com
