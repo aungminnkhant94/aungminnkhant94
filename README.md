@@ -1,6 +1,6 @@
 # Hi, I'm Aung Minn Khant 👋
 
-**M.Sc. Data Science (AI Applications) student @ University of Macau** · System Administrator / Research Assistant @ Biomedical Imaging Laboratory (UM)
+**M.Sc. Data Science (AI Applications) student @ University of Macau** · System Administrator @ Biomedical Imaging Laboratory (UM)
 
 I work at the intersection of **applied deep learning** and **the infrastructure that runs it** — training 3D medical-imaging segmentation models and administering the production GPU cluster behind them.
 
